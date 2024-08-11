@@ -76,7 +76,7 @@ conv_bias = [conv1_bias,conv2_bias]
 
 N1 = 20  #  # of nodes belong to each window
 N2 = 2 #  # of windows -------Feature mapping layer
-N3 = 24000 #  # of enhancement nodes -----Enhance layer
+N3 = 6000 #  # of enhancement nodes -----Enhance layer
 L = 5    #  # of incremental steps 
 M1 = 50  #  # of adding enhance nodes
 s = 0.8  #  shrink coefficient
